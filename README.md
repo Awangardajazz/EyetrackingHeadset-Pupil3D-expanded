@@ -1,5 +1,7 @@
 # EyetrackingHeadset-Pupil3D-Expanded
 
+![Pupil Labs Headset](images/HeadsetDiagram1.png)
+
 Open-source repository containing 3D models and code for an extended version of the Pupil Labs headset, compatible with various platforms including TouchDesigner.
 
 ## Table of Contents
@@ -32,15 +34,22 @@ To install this project, follow the steps below:
 
 ## 3D Model Files
 
-In the `3D_Models` directory, you'll find all the necessary files for 3D printing the Pupil Labs headset. To print and assemble the model, follow the instructions in the `3D_Printing_Instructions.md` file located in the `3D_Models` directory.
+In the `3D_Models` directory, you'll find all the necessary files for 3D printing the Pupil Labs headset. To view, modify or assemble the model use `Eyetracking-Headset-Model3D.3dm` to print use the `Eyetracking-Headset-Model3D-SLS-print.3dm` file located in the `3D_Models` directory. The geometry prepared for SLS 3D printing is enclosed by bounding box for +/- 249 cubic centimeters, making the print  affordable.
+![Pupil Labs Headset](images/HeadsetDiagram2.png)
+
+The printed elements are shown for reference
+![Pupil Labs Headset](images/Parts.jpeg)
+
+Metal inserts placement
+![Pupil Labs Headset](images/InsertsPlacement.jpeg)
 
 ## Code
 
-In the `Code` directory, you'll find scripts for running the headset on the TouchDesigner platform or any other software of your choice. To execute the scripts, follow the instructions in the `Code_Execution_Instructions.md` file located in the `Code` directory.
+In the `Code` directory, you'll find scripts for running the headset on the TouchDesigner platform. To execute the scripts, follow the instructions in the open `Eyetracking-Touchdesigner-Example.td` file located in the `Code` directory and follow instruction inside.
 
 ## License
 
-All models and code created by the authore is open for use in compliance with the [GNU Lesser General Public License (LGPL v3.0)](http://www.gnu.org/licenses/lgpl-3.0.en.html). The very purpose of this project is to make the eyetracking technology more accessible. Make sure you share your work with the community!
+All models and code created by the author is open for use in compliance with the [GNU Lesser General Public License (LGPL v3.0)](http://www.gnu.org/licenses/lgpl-3.0.en.html). The very purpose of this project is to make the eyetracking technology more accessible. Make sure you share your work with the community!
 
 ## Acknowledgements
 
