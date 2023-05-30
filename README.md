@@ -40,7 +40,7 @@ In the `Code` directory, you'll find scripts for running the headset on the Touc
 
 ## License
 
-This project is licensed under the GNU General Public License - see the [LICENSE](LICENSE) file for details.
+All models and code created by the authore is open for use in compliance with the [GNU Lesser General Public License (LGPL v3.0)](http://www.gnu.org/licenses/lgpl-3.0.en.html). The very purpose of this project is to make the eyetracking technology more accessible. Make sure you share your work with the community!
 
 ## Acknowledgements
 
@@ -51,4 +51,5 @@ This work builds upon the research and codebase developed by Pupil Labs. I'd lik
 Please feel free to submit issues and pull requests. All contributions to this repository are appreciated.
 
 ---
-"Your Name"
+## Authors
+* [Wojciech Karnowka](https://github.com/Awangardajazz)
