@@ -1,6 +1,7 @@
 # EyetrackingHeadset-Pupil3D-Expanded
+<img src="images/ColorBW_mix_v2.png" alt="Pupil Labs Headset Parts" width="800"/>
 
-![Pupil Labs Headset](images/HeadsetDiagram1.png)
+<img src="images/HeadsetDiagram1.png" alt="Pupil Labs Headset" width="800"/>
 
 Open-source repository containing 3D models and code for an extended version of the Pupil Labs headset, compatible with various platforms including TouchDesigner.
 
@@ -35,13 +36,18 @@ To install this project, follow the steps below:
 ## 3D Model Files
 
 In the `3D_Models` directory, you'll find all the necessary files for 3D printing the Pupil Labs headset. To view, modify or assemble the model use `Eyetracking-Headset-Model3D.3dm` to print use the `Eyetracking-Headset-Model3D-SLS-print.3dm` file located in the `3D_Models` directory. The geometry prepared for SLS 3D printing is enclosed by bounding box for +/- 249 cubic centimeters, making the print  affordable.
-![Pupil Labs Headset](images/HeadsetDiagram2.png)
 
-The printed elements are shown for reference
-![Pupil Labs Headset](images/Parts.jpeg)
+<img src="images/HeadsetDiagram2.png" alt="Pupil Labs Headset" width="600"/>
 
-Metal inserts placement
-![Pupil Labs Headset](images/InsertsPlacement.jpeg)
+The printed elements are shown for reference:
+
+<img src="images/Parts.jpeg" alt="Pupil Labs Headset Parts" width="400"/>
+
+Metal inserts placement:
+
+<img src="images/InsertsPlacement.jpeg" alt="Metal Inserts Placement" width="400"/>
+
+
 
 ## Code
 
